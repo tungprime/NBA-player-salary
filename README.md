@@ -2,7 +2,7 @@
 
 NBA is one of the four majors sports competitions in America. It is very competitive, and all teams want to attract the best players. Imagine that your team is trying to hire a new player; how can we compare him with other players and how much should you offer to get the best deal? 
 
-That project aims to help you answer this question. More precisely, we make in-depth statiscal analysis of NBA players. Additionally, we will build machine learning models to predict a player's salary. As expected, a player's salary depends on many factors such as his positions, his performance, the home team, and many more. 
+That project aims to help you answer these questions. More precisely, we make in-depth statiscal analysis of NBA players. Additionally, we will build machine learning models to predict a player's salary. As expected, a player's salary depends on many factors such as his positions, his performance, the home team, and many more. 
 
 
 To answer this question, we will use a public dataset to train and test our models. It is downloaded from this <a href="http://web.grinnell.edu/individuals/kuipers/stat2labs/NBA.html"> website </a>
