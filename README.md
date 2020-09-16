@@ -5,7 +5,7 @@ NBA is one of the four majors sports competitions in America. It is very competi
 That project aims to help you answer these questions. More precisely, we make an in-depth statistical analysis of NBA players. Additionally, we will build machine learning models to predict a player's salary. As expected, a player's salary depends on many factors such as his positions, his performance, the home team, and many more. 
 
 
-To answer this question, we will use a public dataset to train and test our models. It is downloaded from this <a href="http://web.grinnell.edu/individuals/kuipers/stat2labs/NBA.html"> website </a>
+We will use a public dataset to train and test our models. It can be downloaded from this <a href="http://web.grinnell.edu/individuals/kuipers/stat2labs/NBA.html"> website </a>
 
 
 This file contains an intensive list of variables. Here are some that we find interesting (please see the file a complete list of all variables. Alternatively, we can see them on <a href= "https://en.wikipedia.org/wiki/Basketball_statistics"> Wikipedia </a> as well). We list here some of these variables. 
