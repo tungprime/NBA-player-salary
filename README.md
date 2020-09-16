@@ -36,4 +36,9 @@ We refer readers to the Jupyter Notebook for more detailed conclusions.
 
 I am thankful to Clare Huang and Briana Konnick for several helpful and constructive feedback on this project. 
 
+# References 
+
+[1]  Sebastian Raschka, Vahid Mirjalili, Python Machine Learning - Second Edition: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2nd Edition.
+
+[2] Aurelien Geron, Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. 
 
