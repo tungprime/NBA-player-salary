@@ -18,7 +18,7 @@ AST: Average number of Assists per game.
 
 PF	Average number of Personal Fouls per game.
 
-#Our results. 
+# Our results. 
 
 We discovered several interesting facts about NBA statistics. For example, even though there are more than 40 types of statistics, our data analysis shows that the following stats strongly influences a player's salary:
 PER (player efficiency rating)
@@ -32,7 +32,7 @@ Our best models are Gradient Boosting Model and the Random Forest model.
 
 We refer readers to the Jupyter Notebook for more detailed conclusions. 
 
-#Acknowledgment. 
+# Acknowledgment. 
 
 I am thankful to Clare Huang and Briana Konnick for several helpful and constructive feedback on this project. 
 
