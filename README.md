@@ -34,7 +34,7 @@ We refer readers to the Jupyter Notebook for more detailed conclusions.
 
 # Acknowledgment. 
 
-I am thankful to Clare Huang and Briana Konnick for several helpful and constructive feedback on this project. 
+I am thankful to Briana Konnick for several helpful and constructive feedback on this project. 
 
 # References 
 
